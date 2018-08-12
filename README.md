@@ -44,4 +44,3 @@ For example, to perform 200GC + 900GC:
 ```
 
 The running total can be cleared with the operation 'c'.
-
